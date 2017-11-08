@@ -1,0 +1,3 @@
+可以将最新版的gazebo_visual拿过来使用，但是需要
+(1) 将里面的nubotcontrol/velcmd话题改成nubotcontrol/teleop_joy
+(2) 将robot_up.sh替换成gazebo_visual_OLD里面那个，主要的改变就是机器人的初始位置
