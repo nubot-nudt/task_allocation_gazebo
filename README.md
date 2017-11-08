@@ -9,10 +9,13 @@ The workspace is for Gazebo visualization, and you can launch the Gazebo first b
 
 `$ roslaunch nubot_gazebo game_ready.launch`
 
+![](image/Gazebo.png)
+
 ### task_allocation
 
 The Qt UI for control terminal and the code for task allocation are included in this workspace, and you can launch the robot's process and control terminal by using following command. Before that you must launch the gazebo_visual first.
 
 `$  ./task_allocation/src/task_allocation.sh `
 
- 
+![](image/Coach.png)
+
