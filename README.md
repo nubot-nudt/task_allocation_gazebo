@@ -43,6 +43,6 @@ The Qt UI for control terminal and the code for task allocation are included in 
 
 **Instructions for use:**  
 
-1. **Start: ** the robots will carry out the cooperation in the same scene with the same method which you choose
-2. **Auto: ** the robots will carry out the cooperation with three methods one by one and change the positions of robots and obstacles randomly after the every methods have to be completed. Then the next set of experiments will be carried out in a new scene.
-3. **Result_show: ** the data (1|0,1|0,1|0) represents the action selection and the following 1|0 represents whether the Receiver receives the ball.  
+1. **Start:** the robots will carry out the cooperation in the same scene with the same method which you choose
+2. **Auto:** the robots will carry out the cooperation with three methods one by one and change the positions of robots and obstacles randomly after the every methods have to be completed. Then the next set of experiments will be carried out in a new scene.
+3. **Result_show:** the data (1|0,1|0,1|0) represents the action selection and the following 1|0 represents whether the Receiver receives the ball.  
