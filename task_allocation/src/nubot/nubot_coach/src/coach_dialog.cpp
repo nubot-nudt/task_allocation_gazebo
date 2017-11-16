@@ -51,7 +51,7 @@ void Dialog::keyPressEvent(QKeyEvent *event)
 
 void Dialog::timerUpdate()
 {
-    static std::ofstream allocation_result("/home/nubot8/allocation_result.txt");
+    static std::ofstream allocation_result("../../../allocation_result.txt");
     coach2robot_info_->isCooperation_ready=allocation_info_->isPasserLocation[0]&&allocation_info_->isReceiverLocation[1]&&allocation_info_->isReceiverLocation[2];
     is_cooperation_done_last=is_cooperation_done;
     is_cooperation_done=allocation_info_->isCooperation_done[0]||allocation_info_->isCooperation_done[1]||allocation_info_->isCooperation_done[2];

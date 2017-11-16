@@ -13,8 +13,6 @@
 #include <nubot_common/ObstaclesInfo.h>
 #include <nubot_common/OminiVisionInfo.h>
 #include <nubot_common/WorldModelInfo.h>
-#include "nubot/rtdb/rtdb_api.h"
-#include "nubot/rtdb/rtdb_user.h"
 #include "ros/ros.h"
 #include <semaphore.h>
 #include <fstream>
@@ -29,7 +27,6 @@ public:
     void update(const ros::TimerEvent& event);
     void updateOminivision(const nubot_common::OminiVisionInfo &omniinfo);
     void receiveFromCoach(const nubot_common::CoachInfo & _coach);
-    void updateInfo();
     void publish();
     void sendToTeamnates();
     bool IsLocationInField(DPoint location);

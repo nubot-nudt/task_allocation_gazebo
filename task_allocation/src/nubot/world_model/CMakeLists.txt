@@ -32,7 +32,6 @@ set(world_model_includes
                ${Boost_INCLUDE_DIRS}
                ${EIGEN_INCLUDE_DIRS}
                include/nubot/world_model
-               include/nubot/rtdb
 )
 
 include_directories(${world_model_includes})
@@ -55,8 +54,6 @@ catkin_package(
   LIBRARIES world_model
 )
 
-add_subdirectory(rtdb)
-
 add_executable(world_model_node
                src/main.cpp
                src/world_model.cpp
@@ -65,8 +62,6 @@ target_link_libraries(world_model_node
     ${catkin_LIBRARIES}
     ${CMAKE_THREAD_LIBS_INIT}
     world_model
-    rtdb
-    multicast
 )
 
 
