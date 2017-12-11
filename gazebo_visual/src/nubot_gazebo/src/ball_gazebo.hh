@@ -1,6 +1,8 @@
 #ifndef BALL_GAZEBO_HH
 #define BALL_GAZEBO_HH
 
+/// \brief compile the code with Gazebo 8.0, there are many warning about "-Wdeprecated-declarations", ignored them
+#pragma GCC diagnostic ignored "-Wdeprecated-declarations"
 #include <boost/bind.hpp>
 #include <gazebo/gazebo.hh>             // the core gazebo header files, including gazebo/math/gzmath.hh
 #include <gazebo/physics/physics.hh>

@@ -31,7 +31,7 @@ The workspace is for Gazebo visualization, and you can launch the Gazebo first b
 
 ![](image/Gazebo.png)
 
-**Notice:** if the program starts error, please try again.
+**Notice:** the program is modified in the match program, so it is not perfect. If the program starts error, please try again.
 
 ### task_allocation
 

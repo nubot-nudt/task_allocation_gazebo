@@ -3,12 +3,12 @@
   <name>nubot_allocation</name>
   <version>0.0.0</version>
   <description>The nubot_allocation package</description>
-  <maintainer email="nubot@todo.todo">nubot</maintainer>
-
+  <maintainer email="nubot.nudt@outlook.com">nubot</maintainer>
+  <author email="weidai_nudt@foxmail.com">weidai</author>
   <license>BSD</license>
+  <url type="website">https://github.com/nubot-nudt/nubot_ws</url>
 
   <buildtool_depend>catkin</buildtool_depend>
-
   <build_depend>nubot_common</build_depend>
   <build_depend>roscpp</build_depend>
   <build_depend>rospy</build_depend>
