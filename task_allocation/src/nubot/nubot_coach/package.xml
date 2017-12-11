@@ -3,8 +3,10 @@
   <name>nubot_coach</name>
   <version>0.0.0</version>
   <description>The nubot_coach package</description>
-  <maintainer email="nubot9@todo.todo">nubot9</maintainer>
-  <license>TODO</license>
+  <maintainer email="nubot.nudt@outlook.com">nubot</maintainer>
+  <author email="weidai_nudt@foxmail.com">weidai</author>
+  <license>BSD</license>
+  <url type="website">https://github.com/nubot-nudt/nubot_ws</url>
 
   <buildtool_depend>catkin</buildtool_depend>
   <build_depend>cv_bridge</build_depend>
