@@ -43,13 +43,13 @@ The Qt UI for control terminal and the code for task allocation are included in 
 
 **Instructions for use:**  
 
-1. ** Start: ** the robots will carry out the cooperation in the same scene with the same method which you choose
-2. ** Auto: ** the robots will carry out the cooperation with three methods one by one and change the positions of robots and obstacles randomly after the every methods have to be completed. Then the next set of experiments will be carried out in a new scene.
-3. ** Result_show: ** the data (1|0,1|0,1|0) represents the action selection and the following 1|0 represents whether the Receiver receives the ball.  
+1. **Start:** the robots will carry out the cooperation in the same scene with the same method which you choose
+2. **Auto:** the robots will carry out the cooperation with three methods one by one and change the positions of robots and obstacles randomly after the every methods have to be completed. Then the next set of experiments will be carried out in a new scene.
+3. **Result_show:** the data (1|0,1|0,1|0) represents the action selection and the following 1|0 represents whether the Receiver receives the ball.  
 
 ## Close
 
 You can destroy the GUI with the close button on the applications, but the all processes have to be closed by Ctrl+C in the terminal.
 
 ## Notice
-If you make use of this work, please cite my paper:  Wei Dai, Huimin Lu, Junhao Xiao, Zhiqiang Zheng. Task Allocation without Communication Based on Incomplete Information Game Theory for Multi-robot Systems. Journal of Intelligent & Robotic Systems, 2018.
+If you make use of this work, please cite [my paper](https://www.trustie.net/attachments/download/217721/Task%20Allocation%20without%20Communication%20Based%20on%20Incomplete%20Information%20Game%20Theory%20for%20Multi-robot%20Systems.pdf): **Wei Dai, Huimin Lu, Junhao Xiao, Zhiqiang Zheng. Task Allocation without Communication Based on Incomplete Information Game Theory for Multi-robot Systems. Journal of Intelligent & Robotic Systems, 2018.**
