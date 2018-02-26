@@ -53,9 +53,7 @@ You can destroy the GUI with the close button on the applications, but the all p
 
 ## Video example
 
-![](image/video example.gif)
-
-<iframe height=498 width=510 src='http://player.youku.com/embed/XMzM3NzE5MDA0OA==' frameborder=0 'allowfullscreen'></iframe>
+![](image/Video_example.gif)
 
 ## Notice
 
