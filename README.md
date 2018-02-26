@@ -53,6 +53,8 @@ You can destroy the GUI with the close button on the applications, but the all p
 
 ## [Video example](http://v.youku.com/v_show/id_XMzM3NzE5MDA0OA==.html)
 
+<iframe height=498 width=510 src='http://player.youku.com/embed/XMzM3NzE5MDA0OA==' frameborder=0 'allowfullscreen'></iframe>
+
 ## Notice
 
 If you make use of this work, please cite [my paper](https://www.trustie.net/attachments/download/217721/Task%20Allocation%20without%20Communication%20Based%20on%20Incomplete%20Information%20Game%20Theory%20for%20Multi-robot%20Systems.pdf): **Wei Dai, Huimin Lu, Junhao Xiao, Zhiqiang Zheng. Task Allocation without Communication Based on Incomplete Information Game Theory for Multi-robot Systems. Journal of Intelligent & Robotic Systems, 2018.**
