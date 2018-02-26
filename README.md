@@ -51,9 +51,7 @@ The Qt UI for control terminal and the code for task allocation are included in 
 
 You can destroy the GUI with the close button on the applications, but the all processes have to be closed by Ctrl+C in the terminal.
 
-## Video example
-
-<iframe height=498 width=510 src='http://player.youku.com/embed/XMzM3NzE5MDA0OA==' frameborder=0 'allowfullscreen'></iframe>
+## [Video example](http://v.youku.com/v_show/id_XMzM3NzE5MDA0OA==.html)
 
 ## Notice
 
